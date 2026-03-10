@@ -10,7 +10,10 @@ $base_de_datos = "importacion_coches";
 
 // Creamos la conexión
 $conexion = new mysqli($servidor, $usuario, $password, $base_de_datos);
+<<<<<<< HEAD
 $conexion->set_charset("utf8mb4");
+=======
+>>>>>>> d1fac6b5934fae84fdd6e24f02c39f81fa7a4387
 
 // Si hay un error, lo mostramos
 if ($conexion->connect_error) {

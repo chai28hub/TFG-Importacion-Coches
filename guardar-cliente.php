@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <head>
     <link rel="stylesheet" href="estilos.css">
 </head>
+=======
+>>>>>>> d1fac6b5934fae84fdd6e24f02c39f81fa7a4387
 <?php
 // 1. Incluimos la conexión
 include 'conexion.php';
